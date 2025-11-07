@@ -1,0 +1,263 @@
+"""
+TechCorp Industries - Leave Policy
+Document Version: 3.2
+Effective Date: January 1, 2024
+Last Updated: January 15, 2024
+Department: Human Resources
+
+1. Introduction
+
+1.1 Purpose
+This policy outlines the leave entitlements, procedures, and guidelines for all employees of TechCorp Industries. The company recognizes the importance of work-life balance and provides various types of leave to support employee wellbeing.
+
+1.2 Scope
+This policy applies to all full-time permanent employees of TechCorp Industries. Contractual and temporary employees should refer to their specific employment agreements.
+
+1.3 Policy Owner
+The Human Resources Department is responsible for administering and updating this policy.
+
+2. Types of Leave
+
+2.1 Casual Leave
+Purpose: Short-term planned absences for personal matters, appointments, or urgent family needs.
+
+Entitlement:
+- All employees are entitled to 12 days of casual leave per calendar year
+- Leave is credited at the beginning of the year (January 1st)
+- Pro-rated for employees joining mid-year
+
+Key Features:
+- Can be taken in half-day increments (minimum 0.5 days)
+- Maximum consecutive days: 3 days at a time
+- Advance notice required: Minimum 1 working day (except emergencies)
+- Cannot be carried forward to the next year
+- Unused casual leave lapses on December 31st
+- Can be combined with other leave types for extended absence
+
+Application Process:
+- Apply through the HR portal or inform your immediate supervisor
+- Provide brief reason for leave
+- Obtain approval before proceeding on leave
+
+Approval Authority:
+- Immediate supervisor/reporting manager
+- HR approval required for applications exceeding 2 consecutive days
+
+2.2 Sick Leave
+Purpose: Medical illness, injury, or health-related appointments requiring absence from work.
+
+Entitlement:
+- All employees are entitled to 10 days of sick leave per calendar year
+- Leave is credited at the beginning of the year
+- Pro-rated for employees joining mid-year
+
+Key Features:
+- Can be taken without advance notice in case of sudden illness
+- Maximum consecutive days: 7 days (beyond which medical certificate is mandatory)
+- Medical certificate required: For absences of 3 or more consecutive days
+- Cannot be carried forward to the next year
+- Unused sick leave lapses on December 31st
+- Emergency sick leave can be applied retroactively within 24 hours
+
+Documentation Requirements:
+- Medical certificate from a registered medical practitioner for absences exceeding 3 days
+- Certificate must include: diagnosis, treatment dates, and fitness to resume work
+- Submit medical documents within 48 hours of returning to work
+
+Application Process:
+- Inform supervisor as soon as possible (phone call/message acceptable for emergencies)
+- Formal application through HR portal within 24 hours
+- Submit medical certificate if applicable
+
+Approval Authority:
+- Immediate supervisor for applications up to 2 days
+- HR and medical clearance required for extended sick leave
+
+2.3 Earned Leave (Annual Leave/Privilege Leave)
+Purpose: Extended breaks for rest, recreation, vacation, or personal matters requiring longer absence.
+
+Entitlement:
+Employees are entitled to earned leave based on tenure:
+- 0-2 years of service: 18 days per year
+- 2-5 years of service: 20 days per year
+- 5+ years of service: 22 days per year
+- Leave accrues monthly (1.5 to 1.83 days per month depending on tenure)
+
+Key Features:
+- Can be taken in half-day increments
+- Maximum consecutive days: 15 days (subject to business requirements)
+- Advance notice required: Minimum 7 working days
+- Can be carried forward to the next year
+- Maximum carry forward limit: 6 days (additional days lapse)
+- Encashment: Up to 50% of unused earned leave can be encashed at year-end (subject to policy)
+
+Planning and Scheduling:
+- Employees should plan earned leave in advance
+- Coordinate with team members to ensure business continuity
+- Black-out periods may apply during critical business periods (communicated in advance)
+- Popular vacation periods (holidays, year-end) require earlier application
+
+Application Process:
+- Apply through HR portal at least 7 days in advance
+- Provide detailed dates and handover notes
+- Obtain necessary approvals before booking travel
+
+Approval Authority:
+- Immediate supervisor and department head for leaves up to 7 days
+- Senior management approval required for leaves exceeding 10 consecutive days
+
+3. Leave Application Procedures
+
+3.1 General Guidelines
+Application Timeline:
+- Plan and apply for leave well in advance
+- Follow minimum notice periods as specified for each leave type
+- Emergency situations will be considered on a case-by-case basis
+
+Submission Process:
+1. Log into the HR Employee Portal
+2. Navigate to "Leave Management" section
+3. Select leave type and enter dates
+4. Provide reason and any supporting documents
+5. Submit for approval
+6. Wait for confirmation before proceeding on leave
+
+Approval Workflow:
+- Application routes to immediate supervisor
+- Automatic escalation to HR if required
+- Email notification sent upon approval/rejection
+- Employees must receive written approval before proceeding on leave
+
+3.2 What to Include in Leave Application
+- Employee ID and name
+- Leave type requested
+- Start date and end date
+- Total number of days
+- Reason for leave (brief description)
+- Contact information during leave (if applicable)
+- Work handover plan (for extended leaves)
+
+3.3 Emergency Leave Applications
+In case of genuine emergencies where advance application is not possible:
+- Inform supervisor immediately via phone/message
+- Submit formal application within 24 hours
+- Provide supporting documents within 48 hours of return
+- Emergency leave is subject to retrospective approval
+
+4. Leave Balance and Tracking
+
+4.1 Checking Leave Balance
+Employees can check their current leave balance through:
+- HR Employee Portal (real-time updates)
+- Monthly payslips
+- Direct inquiry to HR Department
+
+4.2 Leave Credit and Debit
+- Credit: Leave is credited on January 1st each year (or pro-rated on joining date)
+- Debit: Leave is deducted on the day(s) taken
+- Real-time updates: Portal reflects current balance after each transaction
+
+4.3 Negative Leave Balance
+- Casual and sick leave cannot go into negative balance
+- Applications will be rejected if sufficient balance is unavailable
+- In exceptional cases, negative earned leave may be permitted (requires approval from HR Head)
+- Negative balance must be cleared before year-end or upon separation
+
+5. Leave Cancellation and Modification
+
+5.1 Employee-Initiated Cancellation
+- Employees can cancel approved leave through the HR portal
+- Cancellation must be done at least 2 working days before the leave start date
+- Leave balance will be restored immediately upon cancellation
+- Last-minute cancellations (within 48 hours) require supervisor approval
+
+5.2 Company-Initiated Cancellation
+- In exceptional business circumstances, the company may request leave cancellation
+- Reasonable advance notice will be provided
+- Employees will be compensated appropriately
+- Alternative leave dates will be offered
+
+5.3 Modification of Dates
+- Leave dates can be modified if requested before the start date
+- Modifications require fresh approval
+- Original application will be cancelled and new application created
+
+6. Special Circumstances
+
+6.1 Leave During Notice Period
+- Employees serving notice period must obtain special approval for leave
+- Earned leave can be availed subject to knowledge transfer completion
+- Unused leave may be encashed as per separation policy
+
+6.2 Leave During Probation
+- Probationary employees are entitled to leave on a pro-rated basis
+- Casual and sick leave available from joining date
+- Earned leave accrues but usage requires manager approval
+
+6.3 Public Holidays Falling During Leave
+- Public holidays occurring during approved leave will not be counted as leave days
+- Leave balance will be adjusted accordingly
+
+6.4 Weekends During Leave
+- Weekends falling within leave period are counted in total leave days
+- Example: Friday + Weekend + Monday = 4 days leave (if Saturday-Sunday are offs)
+
+7. Compliance and Violations
+
+7.1 Unauthorized Absence
+- Taking leave without approval is considered unauthorized absence
+- May result in loss of pay and disciplinary action
+- Repeated violations can lead to termination of employment
+
+7.2 False Information
+- Providing false information or fraudulent medical certificates is a serious offense
+- Subject to immediate disciplinary action including termination
+
+7.3 Leave Abuse
+- Frequent casual leave applications immediately before/after weekends
+- Pattern of sick leave on Mondays/Fridays without valid reason
+- HR reserves the right to investigate suspicious leave patterns
+
+8. Additional Leave Types (Beyond Scope of This System)
+For completeness, employees should be aware of other leave types available (not covered in this system):
+- Maternity Leave: 26 weeks (as per law)
+- Paternity Leave: 15 days
+- Bereavement Leave: Up to 5 days
+- Compensatory Off: For working on scheduled offs
+- Sabbatical Leave: For employees with 5+ years of service
+
+Please refer to separate policy documents or contact HR for details on these leave types.
+
+9. Contact Information
+
+HR Department Contact Details
+- Email: hr@techcorp.com
+- Phone: +91-80-1234-5678
+- Portal: https://hr.techcorp.com
+- Office Hours: Monday to Friday, 9:00 AM - 6:00 PM
+
+Grievance Redressal
+For any concerns or disputes related to leave:
+- Contact HR Manager: hrmanager@techcorp.com
+- Escalation to HR Head if unresolved within 3 working days
+
+10. Policy Review and Updates
+This policy is reviewed annually and may be updated based on:
+- Changes in labor laws and regulations
+- Business requirements
+- Employee feedback
+- Industry best practices
+
+Last Review Date: January 2024
+Next Review Date: January 2025
+
+Acknowledgment
+All employees are required to read and understand this leave policy. By submitting leave applications through the HR portal, employees acknowledge their understanding and agreement to comply with this policy.
+
+For questions or clarifications, please contact the Human Resources Department.
+
+Document Control:
+- Approved by: Chief Human Resources Officer
+- Effective Date: January 1, 2024
+- Version: 3.2
+- Classification: Internal - All Employees
